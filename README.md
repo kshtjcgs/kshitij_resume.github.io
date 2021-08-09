@@ -1,4 +1,4 @@
-# mabelvj.github.io
+# kshitij.github.io
 
 To run site locally, execute : 
 > bundle exec jekyll serve
